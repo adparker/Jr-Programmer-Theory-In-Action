@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MyCube : MyShape
+public class MyCube : MyShape // Inheritance. 
 {
     void Awake()
     {
