@@ -5,5 +5,5 @@ using UnityEngine;
 public class MyShape : MonoBehaviour
 {
     private string _msg;
-    public string msg { get; private set; } // Encapsulation
+    public string msg { get; protected set; } // Encapsulation
 }
